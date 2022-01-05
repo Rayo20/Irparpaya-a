@@ -45,29 +45,3 @@ chmod +x real-host-v2.sh
 bash real-host-v2.sh
 
 
-
-DATOS:
-
-CANAL TELEGRAM:
-
-https://t.me/RealHackRWAM
-
-GRUPO TELEGRAM:
-
-https://t.me/RealStrategyRS
-
-CANAL YOUTUBE:
-
-https://youtube.com/RealHackRWAM
-
-GRUPO FACEBOOK:
-
-https://m.facebook.com/groups/142565756559228
-
-CANAL FACEBOOK
-
-https://m.facebook.com/RealHackRWAM
-
-
-
-PRESIONA UNA ENTER PARA CONTINUAR...
